@@ -1,0 +1,35 @@
+{
+  "shelf": {
+    "booksAndArchives": [
+      {
+        "bookId": "fixture-reading-1",
+        "title": "Fixture: Quiet Harbor",
+        "author": "Sample Author",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/123/fixture.jpg",
+        "progress": 42,
+        "finished": 0,
+        "markedStatus": 1,
+        "readUpdateTime": 1729000000
+      },
+      {
+        "bookId": "fixture-next-1",
+        "title": "Fixture: Next Up",
+        "author": "Queue Writer",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/456/fixture.jpg",
+        "progress": 0,
+        "finished": 0,
+        "markedStatus": 0
+      },
+      {
+        "bookId": "fixture-read-1",
+        "title": "Fixture: Finished Book",
+        "author": "Done Author",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/789/fixture.jpg",
+        "progress": 100,
+        "finished": 1,
+        "markedStatus": 4,
+        "finishTime": 1704067200
+      }
+    ]
+  }
+}
